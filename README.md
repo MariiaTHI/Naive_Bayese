@@ -1,5 +1,15 @@
 # Naive_Bayese
 # # '''Naive Bayes classifier'''
+Problem Statement:
+A customer of yours is dissatised with the quality of the speech recognition. After a conversation
+with the customer, you nd out that he dictates books. However, the speech recognition was not
+built for this purpose. Accordingly, initial investigations on a book excerpt have also shown that
+the language model used is not suitable. For building a better language model for the applicati-
+on, you have asked your customer to provide a text from the book (see "Datasets and Resources")
+In order to save costs and also to avoid problems with copyrights, your company has decided to
+not use existing solutions for this project. A new program for estimating language models is now
+to be programmed in Python from scratch. If you need special Python modules, you can discuss
+their use with your instructor before submission
 
 # Here are the general steps to implement a Naive Bayese Classifier from scratch on a dataset:
 # 1. Load the dataset into a pandas DataFrame 
