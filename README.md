@@ -1,8 +1,8 @@
 # Naive_Bayese
 # # '''Naive Bayes classifier'''
 Problem Statement:
-A customer of yours is dissatised with the quality of the speech recognition. After a conversation
-with the customer, you nd out that he dictates books. However, the speech recognition was not
+A customer of yours is dissatisfied with the quality of the speech recognition. After a conversation
+with the customer, you found out that he dictates books. However, the speech recognition was not
 built for this purpose. Accordingly, initial investigations on a book excerpt have also shown that
 the language model used is not suitable. For building a better language model for the applicati-
 on, you have asked your customer to provide a text from the book (see "Datasets and Resources")
